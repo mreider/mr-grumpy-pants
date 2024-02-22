@@ -3,8 +3,8 @@
 {% block content %}
 {% for entry in archive %}
 <div class="row">
-<div><time datetime="{{ entry.date }}">{{ entry.date.date() }}</time>
- <a href="../{{ entry.dst }}">{{ entry.title }}</a>
+<div>
+ <a href="../{{ entry.dst }}">{{ entry.title }}</a> <emphasis><time datetime="{{ entry.date }}">{{ entry.date.date() }}</time></emphasis>
     {% if entry.description %}
  {{ entry.description }}
     {% endif %}
