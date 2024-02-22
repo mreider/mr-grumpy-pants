@@ -4,7 +4,7 @@
 {% for entry in archive %}
 <div class="row">
 <div>
- <a href="../{{ entry.dst }}">{{ entry.title }}</a> <emphasis><time datetime="{{ entry.date }}">{{ entry.date.date() }}</time></emphasis>
+ <a href="../{{ entry.dst }}">{{ entry.title }}</a> &#9775; <em><time datetime="{{ entry.date }}">{{ entry.date.date() }}</time></em>
     {% if entry.description %}
  {{ entry.description }}
     {% endif %}
