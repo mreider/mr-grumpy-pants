@@ -12,7 +12,7 @@
     <meta name="description" content="{{ site.description }}">
     {%- endif %}
     <link rel="alternate" href="/atom.xml" type="application/atom+xml">
-    <link rel="stylesheet" href="/mu.css" type="text/css">
+    <link rel="stylesheet" href="/mvp.css" type="text/css">
     <title>{% block title %}{% endblock %} | {{ site.description }}</title>
     <style>
       html {
@@ -28,13 +28,15 @@
   </head>
 
   <body>
-      <div><h1><a href="/">{{ site.title }}</a></h1></div>
-      <div><h2>{{ site.description }}</h2></div>
+    <header>
+      <h1><a href="/">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+      </header>
     {% block content %}{% endblock %}
-    <div>&nbsp;</div>
-    <div><a href="/">Go back</a></div>
-    <div>&nbsp;</div>
     <footer>
+      <div>&nbsp;</div>
+      <div><a href="/">Go back</a></div>
+      <div>&nbsp;</div>
       <div>This website was built with <a href="https://github.com/venthur/blag">blag</a></div>
       <div>Contact me via
         <a rel="me" href="https://fosstodon.org/@mdr">Mastodon</a> or
