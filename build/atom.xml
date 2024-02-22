@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mr Grumpy Pants</title><link href="https://mdr50.eu/" rel="alternate"></link><link href="https://mdr50.eu/atom.xml" rel="self"></link><id>https://mdr50.eu/</id><updated>2022-03-10T00:00:00+01:00</updated><subtitle>A No-Nonsense Tech Blog</subtitle><entry><title>Perplexity's CEO is full of shit</title><link href="https://mdr50.eu/ai-ceo-spin.html" rel="alternate"></link><published>2022-03-10T00:00:00+01:00</published><updated>2022-03-10T00:00:00+01:00</updated><author><name>Matt</name></author><id>tag:mdr50.eu,2022-03-10:/ai-ceo-spin.html</id><summary type="html">Perplexity's CEO is full of shit</summary><content type="html">&lt;p&gt;This week&amp;rsquo;s episode of Hard Fork, interviewed Aravind Srinivas, CEO of Perplexity – an AI-powered “answer engine” that summarizes search results.&lt;/p&gt;
+&lt;p&gt;Hosts Kevin Roose and Casey Newton raised the issue of how Perplexity fails to compensate journalists for summarized content.&lt;/p&gt;
+&lt;p&gt;Roose was blunt.&lt;/p&gt;
+&lt;p&gt;“A lot of publishers and journalists are very nervous about AI powered search engines in particular because referral traffic is one of the main ways that publishers are making money today. So. Why should publishers not be terrified of what you&amp;rsquo;re building”&lt;/p&gt;
+&lt;p&gt;Srinivas&amp;rsquo;s response was pure spin. He denied claims of hurting publishers&amp;rsquo; income but also suggested it&amp;rsquo;s someone else&amp;rsquo;s (i.e., the New York Times&amp;rsquo;) job to figure all of that out.&lt;/p&gt;
+&lt;p&gt;“We need to work together to build all these things, rather than, like, trying to see it as, like, hey you&amp;rsquo;re trying to take my stuff and using it.“ &lt;/p&gt;
+&lt;p&gt;He also denied Perplexity trains its AI on New York Times data:&lt;/p&gt;
+&lt;p&gt;“I am also sympathetic to, like, what the current lawsuit that is going on, where you&amp;rsquo;re just taking all your data, and training, like, these base foundation models there, which we do not do, by the way. We don&amp;rsquo;t train anything on, like, anybody&amp;rsquo;s data.“ &lt;/p&gt;
+&lt;p&gt;Casey Newton rightly interjected, “But you do use GPT as your underlying data.”&lt;/p&gt;
+&lt;p&gt;In other words. You&amp;rsquo;re full of shit.&lt;/p&gt;</content></entry></feed>
