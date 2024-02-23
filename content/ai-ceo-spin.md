@@ -1,6 +1,6 @@
 ---
 title: Perplexity's CEO is full of shit
-date: 2022-03-10
+date: 2024-02-20
 ---
 
 This week's episode of Hard Fork featured an interview with Aravind Srinivas, CEO of Perplexity, an AI-powered “answer engine” that summarizes search results.
