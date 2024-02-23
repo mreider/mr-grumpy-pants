@@ -19,6 +19,4 @@ Today, when I asked Gemini to generate an image depicting "Manifest Destiny," it
 
 The picture shows Columbia, a symbol of America, leading the way West. Native Americans are barely noticeable; their figures fade into the background, easy to overlook. This kind of imagery reflects a specific viewpoint, one that may or may not align with your own.  As a Gemini user, your product satisfaction depends on how closely these values mirror those of the engineers who trained the AI. This means that universal approval for Google Gemini is unlikely, no matter how hard they try.
 
-**Reflecting Fears through AI's Lens**
-
 Tech giants like Google, OpenAI, and Meta will never be able to create a generally acceptable form of AI-generated "truth." Of course, that's impossible. But that won't stop them from trying. Perhaps users will have settings to tailor the political bias of the answers they receive, ensuring they reflect their own worldviews.  More likely, we'll see a proliferation of AI engines targeted at specific audiences, furthering the divide we already see in the media.
