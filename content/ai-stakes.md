@@ -1,5 +1,5 @@
 ---
-title: AI is a Reflection of Ourselves, Warts and All
+title: AI's Quest for Bias-Free Enlightenment
 date: 2024-02-23
 ---
 
@@ -15,4 +15,4 @@ The question then becomes: Will tech giants commit to specific values in their A
 
 **Ancient BIOS vs. Modern GPUs**
 
-It's pretty ironic: we're dumping tons of cash into supercharged GPUs for AI, while our brains are still stuck in caveman mode. How do we craft AI output that appeases both our primal and sophisticated sides, catering to conservative, liberal, woke, and nationalistic views all at once? Honestly, it seems impossible.
+It's pretty ironic: we're channeling massive resources into advanced GPUs for AI, yet our collective BIOS remains in the Stone Age. Trying to curate training data that pleases everyone is like attempting to craft a universal religion. Utterly impossible.
