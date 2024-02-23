@@ -1,6 +1,6 @@
 ---
 title: AI is a Reflection of Ourselves, Warts and All
-date: 2022-02-23
+date: 2024-02-23
 ---
 
 This week, Google's Gemini engine demonstrated how AI is destined for biases and blind spots. When asked to generate images of historical figures, [Gemini consistently failed to produce accurate results](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical), depicting them as the wrong races or genders.
