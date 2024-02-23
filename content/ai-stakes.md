@@ -11,7 +11,7 @@ It's a reminder that AI is shaped only by its training data, and reflects the bi
 
 Google, OpenAI, Meta, etc. are now challenged with the impossible: balance historical accuracy with cultural sensitivity. The Founding Fathers example is an easy one to fix. Generate things based on things that are generated before. The Founding Fathers were white. So make them white. But it's really not so easy.
 
-When I asked Gemini for an image of "Manifest Destiny," it opted for a Wikipedia image, sidestepping the responsibility. But even the Wikipedia image is a controversial one. It focuses on Columbia, a personification of America, leading the way west. Somewhere in there you can also see Native Americans fading into the darkness, but it's easy to miss, and hardly captures their bloodshed, pain, and suffering.
+When I asked Gemini for an image of "Manifest Destiny," it opted for a Wikipedia image, sidestepping all responsibility. But even the Wikipedia image is a controversial one. It focuses on Columbia, a personification of America, leading the way west. Somewhere in there you can also see Native Americans fading into the darkness, but it's easy to miss, and hardly captures their bloodshed, pain, and suffering.
 
 ![manifest destiny](/images/American_Progress_(John_Gast_painting).jpg)
 
