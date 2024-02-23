@@ -7,20 +7,18 @@ This week, Google's newly released Gemini product demonstrated some notable inac
 
 <img src="/images/wash.png" alt="Manifest Destiny" style="width:50%;height: auto;">
 
-Asked why it altered Washington's race, Gemini explained that it "aimed to provide a more accurate and inclusive representation..."  Perhaps, like the movie Inglorious Basterds, an alternate timeline in which Washington is black might be for the best.
+Asked why it altered Washington's race, Gemini explained that it "aimed to provide a more accurate and inclusive representation..."  Perhaps, like a Dr. Strange movie, an alternate timeline in which Washington is black might be for the best.
 
-Whether you prefer a black, asian, or white George Washington, Gemini's behavior is a reminder that AI is shaped solely by its training data and reflects the biases of the engineers who curate that data. Google chose training data influenced by their biases.
+Preferred historical depictions aside, Gemini's behavior reminds us that AI is shaped by training data that reflects the biases of the engineers who curate it. In this case, Google's team made choices that influenced those results.
 
 **Engineering Human Values**
 
-Google has temporarily disabled image generation for prompts like this. So today - when I asked Gemini to generate an image depicting "Manifest Destiny" it opted for a Wikipedia image instead. But let's pretend for a moment that Gemini generated the image, or something like it. Here it is.
+Today, when I asked Gemini to generate an image depicting "Manifest Destiny," it provided a Wikipedia image instead. That's because Google has temporarily disabled image generation for sensitive prompts. But let's imagine for a moment that Gemini generated the image on its own.
 
 <img src="/images/American_Progress_(John_Gast_painting).jpg" alt="Manifest Destiny" style="width:50%;height: auto;">
 
-The picture shows Columbia, a positive personification of America, leading the way West. Native Americans don't really play a big role in the image. If you look carefully you can see some figures fading into the darkness, but they're easy to miss. It's easy to understand how people might find this kind of imagery troubling. It glosses over a dark and painful history. Whether Gemini chooses this history, or some other one, is up to a small team and their values.
+The picture shows Columbia, a symbol of America, leading the way West. Native Americans are barely noticeable; their figures fade into the background, easy to overlook. This kind of imagery reflects a specific viewpoint, one that may or may not align with your own.  As a Gemini user, your product satisfaction depends on how closely these values mirror those of the engineers who trained the AI. This means that universal approval for Google Gemini is unlikely, no matter how hard they try.
 
 **Reflecting Fears through AI's Lens**
-
-Not only is this a huge challenge for companies like Google, OpenAI, and Meta, but it's also genuinely terrifying for society. Imagine a right-wing version of Gemini trained on data from the growing [National Conservatism movement](https://www.theatlantic.com/ideas/archive/2021/11/scary-future-american-right-national-conservatism-conference/620746/). What would Gemini generate in response to a prompt about "immigration?" 
 
 Tech giants like Google, OpenAI, and Meta will never be able to create a generally acceptable form of AI-generated "truth." Of course, that's impossible. But that won't stop them from trying. Perhaps users will have settings to tailor the political bias of the answers they receive, ensuring they reflect their own worldviews.  More likely, we'll see a proliferation of AI engines targeted at specific audiences, furthering the divide we already see in the media.
