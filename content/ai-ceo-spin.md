@@ -3,9 +3,9 @@ title: Perplexity's CEO is full of shit
 date: 2022-03-10
 ---
 
-This week's episode of Hard Fork featured an interview with Aravind Srinivas, CEO of Perplexity. Perplexity is an AI-powered “answer engine” that summarizes search results.
+This week's episode of Hard Fork featured an interview with Aravind Srinivas, CEO of Perplexity, an AI-powered “answer engine” that summarizes search results.
 
-Host Kevin Roose asked Mr. Srinivas if Perplexity would stop referring traffic to publishers, which is how the New York Times earns much of its revenue.
+Host Kevin Roose asked Mr. Srinivas if Perplexity intended to stop directing traffic to publishers, a significant revenue source for the New York Times.
 
 “A lot of publishers and journalists are very nervous about AI powered search engines, in particular, because referral traffic is one of the main ways that publishers are making money today - so - why should publishers not be terrified of what you're building”
 
@@ -13,7 +13,7 @@ Srinivas's response was total spin.
 
 “We need to work together to build all these things (revenue models for publishers), rather than trying to see it like we're trying to take stuff and use it (without paying for it)"
 
-I see. So it's the New York Times job to figure all of this out. Got it. Meanwhile Perplexity (and OpenAI, etc.) will attempt to monetize their services while trying defend themselves [from lawsuits that hold them to account](https://arstechnica.com/tech-policy/2024/02/why-the-new-york-times-might-win-its-copyright-lawsuit-against-openai/5/).
+I see. So the burden is placed on the New York Times to solve this dilemma. Meanwhile, Perplexity (and others like OpenAI) aim to profit while fighting legal challenges about [content usage](https://arstechnica.com/tech-policy/2024/02/why-the-new-york-times-might-win-its-copyright-lawsuit-against-openai/5/).
 
 Mr Srinivas even attempted to deny that Perplexity uses New York Times data:
 
