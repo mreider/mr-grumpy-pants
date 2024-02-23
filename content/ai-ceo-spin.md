@@ -15,15 +15,13 @@ Srinivas's response was total spin.
 
 I see. So the burden is placed on the New York Times to solve this dilemma. Meanwhile, Perplexity (and others like OpenAI) aim to profit while fighting legal challenges about [content usage](https://arstechnica.com/tech-policy/2024/02/why-the-new-york-times-might-win-its-copyright-lawsuit-against-openai/5/).
 
-Mr Srinivas even attempted to deny that Perplexity uses New York Times data:
+Mr. Srinivas also denied using New York Times data:
 
 “I am also sympathetic to the current lawsuit that is going on, where others are just taking people's data, and training their base foundation models, which we do not do, by the way. We don't train anything on anybody's data.“
 
-Casey Newton interjected, “But you do use GPT as your underlying data," to which Mr. Srinivas dismissively answered "yes, we use GPT, and Llama, etc." but doubled down on the claim that he isn't using anyone's data.
+Casey Newton responded, “But you use GPT and Llama as your underlying data,” to which Mr. Srinivas briefly conceded, "yes, we use GPT and Llama," but insisted they don't use anyone's data.
 
-This is a new level of smoke, mirrors, and lying. Notice Mr. Srinivas uses words like "base foundation models" to try and separate himself from OpenAI. Technically, he's not training those models. But also, just as technically, he most certainly is using them. The end result is the same.
+Denying the use of "base foundation models" while sourcing them indirectly is like claiming "no child labor involved" simply because the production is outsourced. Mr. Srinivas, sharp as a tack, undeniably aware of his ethical distancing.
 
-Journalism is often called the "Fourth Estate" because it plays a crucial role in informing the public about government policies and actions, holding those in power accountable, and ensuring transparency. But journalism has had a tough go over the last forty years or so, for many reasons, but largely because of the Internet.
-
-Looks like that won't be getting better any time soon.
+Journalism, often called the "Fourth Estate" due to its critical role in democracy, has always faced challenges posed by the Internet. Now, with AI, these challenges have only intensified.
 
