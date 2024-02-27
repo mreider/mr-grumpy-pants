@@ -1,4 +1,4 @@
 ---
-title: 👩‍👧‍👦
+title: 
 ShowBreadCrumbs: false
 ---
