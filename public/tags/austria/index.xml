@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Austria on Mr. Grumpy Pants</title>
+    <link>http://localhost:1313/tags/austria/</link>
+    <description>Recent content in Austria on Mr. Grumpy Pants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/austria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memories of Vermont</title>
+      <link>http://localhost:1313/posts/memories-of-vermont/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/memories-of-vermont/</guid>
+      <description>I am on a work trip this week. Four of us. Visiting a satellite office in Klagenfurt so I can meet the team and join some planning sessions. We took a train here, which lasted five hours and went through the alps — but it was mostly dark and foggy. When the fog lifted, which happened a few times, I compared the countryside to places in America. The mountains look like the rockies — big peaks and spires.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mdr50.eu/sitemap.xml

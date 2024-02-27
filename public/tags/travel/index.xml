@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Mr. Grumpy Pants</title>
+    <link>http://localhost:1313/tags/travel/</link>
+    <description>Recent content in Travel on Mr. Grumpy Pants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going Viral</title>
+      <link>http://localhost:1313/posts/going-viral/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/going-viral/</guid>
+      <description>Summer vacation was a three-part trip. First was Long Island to celebrate Marty&amp;rsquo;s 80th birthday. Second was Vermont to join Rosie and Zach&amp;rsquo;s wedding. Then Portugal, with #friends4life Schwartzberg clan.&#xA;Coronavirus made it bumpy. The guest list for Marty&amp;rsquo;s birthday was shorter than planned. A particularly important guest, Alison, tested positive and spent the week feeling crappy, at the Stony Brook holiday Inn Express. It was a great party but not the same without her.</description>
+    </item>
+    <item>
+      <title>More than 20 Questions</title>
+      <link>http://localhost:1313/posts/more-than-20-questions/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/more-than-20-questions/</guid>
+      <description>Last week we took an American style road trip (🚙) through the Czech Republic. Originally we were thinking about Holland. Also Norway. But we procrastinated and airfares went up. So we decided to drive North.&#xA;On the road 🔗Like other vacations, this one started by dropping Leo (🐶) at his second home - a beautiful kennel ranch outside of Linz.&#xA;Here&amp;rsquo;s an aerial view:&#xA;Nice place right? Leo agrees. He&amp;rsquo;s very waggy about it.</description>
+    </item>
+    <item>
+      <title>A Year Went By</title>
+      <link>http://localhost:1313/posts/a-year-went-by/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-year-went-by/</guid>
+      <description>I stopped writing over a year ago. Not sure why. Wasn&amp;rsquo;t feeling it.&#xA;But today I&amp;rsquo;ll give you a short update.&#xA;We&amp;rsquo;ve experienced some new things. We went skiing on a couple of glaciers. We bought a hyperactive dog named Leo. We visited friends and family in America and then went scuba diving in Costa Rica. In autumn we saw Belgium, then climbed up the Eiffel Tower. Then it was winter again.</description>
+    </item>
+    <item>
+      <title>Teamwork in Corfu</title>
+      <link>http://localhost:1313/posts/teamwork-in-corfu/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/teamwork-in-corfu/</guid>
+      <description>I learned some important things during our vacation in Corfu. Wasps don’t like smoke. Google maps can tell you to drive in circles. Jacques Cousteau invented scuba diving.&#xA;The scuba diving bit was learned on this boat in the town of Nisaki, on Corfu’s northeast side. If you look closely you’ll see Chris, the owner of Apollo dive, sitting with my wife and kids.&#xA;Chris and his wife Maria led us on five dives in total.</description>
+    </item>
+    <item>
+      <title>Wasser, Acqua, Voda</title>
+      <link>http://localhost:1313/posts/wasser-acqua-voda/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wasser-acqua-voda/</guid>
+      <description>The Danube flows less than a mile from our house. Once, on a hot day, I peddled to it, took off my shirt, and jumped in. The current was strong. Off I went Eastward towards Vienna. I made it back home in time for dinner.&#xA;A few weeks later we drove to a bigger body of water. The Adriatic. Venice. Home of St. Mark’s corpse, Peggy Gegenheim’s dog cemetery, tagliatelle, and gondoliers.</description>
+    </item>
+  </channel>
+</rss>

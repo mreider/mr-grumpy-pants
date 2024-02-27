@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greece on Mr. Grumpy Pants</title>
+    <link>http://localhost:1313/tags/greece/</link>
+    <description>Recent content in Greece on Mr. Grumpy Pants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/greece/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teamwork in Corfu</title>
+      <link>http://localhost:1313/posts/teamwork-in-corfu/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/teamwork-in-corfu/</guid>
+      <description>I learned some important things during our vacation in Corfu. Wasps don’t like smoke. Google maps can tell you to drive in circles. Jacques Cousteau invented scuba diving.&#xA;The scuba diving bit was learned on this boat in the town of Nisaki, on Corfu’s northeast side. If you look closely you’ll see Chris, the owner of Apollo dive, sitting with my wife and kids.&#xA;Chris and his wife Maria led us on five dives in total.</description>
+    </item>
+  </channel>
+</rss>
