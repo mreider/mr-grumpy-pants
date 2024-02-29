@@ -1,8 +1,7 @@
 {{ define "main" }}
 {{ partial "profile.html" . }}
 
-<section id="archive">
-   
+<section id="archive" class="h-feed">
     {{ range .Data.Pages.GroupByDate "2006" }}
         <div class="group">
             <h3 class="key">
@@ -15,27 +14,22 @@
                       <time datetime="{{ .PublishDate }}">{{ i18n "publishDateShort" . }}</time>
                   </div>
                   <div class="title">
-                      <a href="{{ .Permalink }}">
+                      <a class="p-name u-url" href="{{ .Permalink }}">
                           {{ .Title }}
                       </a>
 
                       {{ with .Params.tags }}
                           <div class="tags">
                               {{ range . }}
-                                  <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+                                  <a class="p-category" href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
                               {{ end }}
                           </div>
-                      {{ end}}
+                      {{ end }}
                   </div>
                 </div>
             {{ end }}          
         </div>
-
     {{ end }}
-
-
-
 </section>
-
 
 {{ end }}

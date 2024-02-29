@@ -1,10 +1,10 @@
 {{ define "main" }}
 
-<section id="single">
-    <h1 class="title">{{ .Title }}</h1>
+<section id="single" class="h-entry">
+    <h1 class="title p-name">{{ .Title }}</h1>
 
     <div class="tip">
-        <time datetime="{{ .PublishDate }}">{{ i18n "publishDateFull" . }}</time>
+        <time class="dt-published" datetime="{{ .PublishDate }}">{{ i18n "publishDateFull" . }}</time>
         <span class="split">
           ·
         </span>
@@ -24,22 +24,20 @@
         {{ partial "toc.html" . }}
     {{ end }}
 
-
-    <div class="content">
+    <div class="content e-content">
       {{ .Content }}
     </div>
 
     {{ with .Params.tags }}
         <div class="tags">
             {{ range . }}
-                <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+                <a class="p-category" href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
             {{ end }}
         </div>
-    {{ end}}
+    {{ end }}
     
     {{ partial "comment.html" . }}
 
 </section>
 
 {{ end }}
-
