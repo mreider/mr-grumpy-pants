@@ -32,7 +32,7 @@ Let's turn to the upside then. The dispenser is 10 meters from the fridge. A 20-
 
 Aprapos of nothing. The exercise was calculated in meters but the water jugs are imperial. Each one is 18.927 liters. Exactly 5 gallons. Nobody in Austria knows what a gallon looks like.
 
-Same thing goes for mountain bike tires, by the way, which are sold to Europeans in inches, not centimeters. "What's an inch?" people ask. 
+Same thing goes for mountain bike tires, by the way, which are sold to Europeans in inches, not centimeters. "What's an inch?" people ask. Or "was ist ein..." ok you get it.
 
 More useless information for your head. You're welcome.
 
