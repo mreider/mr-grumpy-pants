@@ -26,14 +26,8 @@ Second problem is the kids. Way too lazy about refilling bottles. They're crafty
 
 Third problem is the combination of the first two problems. 
 
-There's also a Long Island bred (loud-ish) wife wandering around, expressing that these, and other problems, should be resolved ASAP.
+There's also a Long Island bred wife wandering around, expressing, very directly, that these, and other problems, should be resolved ASAP.
 
 Let's turn to the upside then. The dispenser is 10 meters from the fridge. A 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km per year. So there's a benefit of exercise in keeping these folks hydrated.
-
-Aprapos of nothing. The exercise was calculated in meters but the water jugs are imperial. Each one is 18.927 liters. Exactly 5 gallons. Nobody in Austria knows what a gallon looks like.
-
-Same thing goes for mountain bike tires, by the way, which are sold to Europeans in inches, not centimeters. "What's an inch?" people ask. Or "was ist ein..." ok you get it.
-
-More useless information for your head. You're welcome.
 
 ![You're going the wrong way](/images/metric-imperial.png)
