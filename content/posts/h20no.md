@@ -20,7 +20,7 @@ Our water company is [Aqua Alpina](https://www.aquaalpina.at/). Here's a very sk
 
 ![pic of a lady drinking water](/images/waterlady.png)
 
-Anyhow - the water we get isn't chilled, so we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's sorta not.
+Anyhow - the water we get isn't chilled, so we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's really not.
 
 What's annoying, at least for me, is my inability to ignore bottles that aren't full. When I see a half-empty bottle on the counter I feel an immediate need to fill it. My compulsion makes everyone a little crazy. Mid-conversation with my wife, if I see a bottle, I have to fill it. Then there's the kids. They make me crazy. They drain each bottle without ever refilling them. By the weekend’s end, the fridge is always full of nearly empty bottles.
 
