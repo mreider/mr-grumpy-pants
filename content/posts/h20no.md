@@ -14,7 +14,7 @@ Today I'll write, [again](/posts/wasser-acqua-voda/), about water.
 
 Vienna's water supply is world famously clean. It comes straight from the Alps and doesn't need any treatment at all. No chlorine, no filtration. You can read more about it in [this offical Vienna water flyer](/images/drinking-water-vienna.pdf). Yes, I read municipal water reports. Don't judge.
 
-Sadlyt, our residence isn’t linked to the local water system. Instead, we rely on a well. The reason remains a mystery - it’s just part of the “charm” of our rental. This well water is suitable for cooking and brushing teeth, but not for drinking. Hence, we get our water from a dispenser. A truck delivers five jugs per month.
+Sadly, our house isn’t linked to the local water system. Instead, we rely on a well. The reason remains a mystery - it’s just part of the “charm” of our rental. This well water is suitable for cooking and brushing teeth, but not for drinking. Hence, we get our water from a dispenser. A truck delivers five jugs per month.
 
 These water jugs aren’t chilled, so we transfer the water into five glass bottles for refrigeration. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think that's simple. It's not.
 
