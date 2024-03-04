@@ -18,13 +18,11 @@ Our water company is [Aqua Alpina](https://www.aquaalpina.at/). Here's a very sk
 
 ![pic of a lady drinking water](/images/waterlady.png)
 
-Anyhow - the water we get isn't chilled, so we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's really not.
+Anyhow - our water dispenser has no cooling unit. So we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's really not.
 
 First problem is my ADD. I am completely unable to ignore bottles that aren't full. If there's a half-empty bottle on the counter, no matter what else is happening, I drop everything to fill it. This drives everyone a little crazy.
 
 Second problem is the kids. Way too lazy about refilling bottles. They're crafty too - leaving each one at a level that is arguably not-yet-empty, and thus not-yet-necessary to refill. By Sunday the fridge contains five separate bottles with tiny gulps in each.
-
-Third problem is the combination of the first two problems. 
 
 There's also a Long Island bred wife wandering around, expressing, very directly, that these, and other problems, should be resolved ASAP.
 
