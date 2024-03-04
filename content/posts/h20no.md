@@ -6,7 +6,7 @@ tags = ["expat life"]
 
 ****
 
-Another year slipped by like a [Northern Pike](https://www.donauauen.at/wissen/natur-wissenschaft/fauna/hecht-esox-lucius) headed downstream. A lot of things happened. Too many to review.
+Another year slipped by like a [Northern Pike](https://youtu.be/uWMSpt7CLkU?si=HhGcMCj-H416Ddiw) headed down the danube. A lot of things happened. Too many to review.
 
 Today I'll write, [again](/posts/wasser-acqua-voda/), about water.
 
@@ -20,18 +20,20 @@ Our water company is [Aqua Alpina](https://www.aquaalpina.at/). Here's a very sk
 
 Anyhow - the water we get isn't chilled, so we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's really not.
 
-First problem is my ADD. I am completely unable to ignore bottles that aren't full. If there's a half-empty bottle on the counter I drop everything to fill it. My compulsion makes everyone a little crazy.
+First problem is my ADD. I am completely unable to ignore bottles that aren't full. If there's a half-empty bottle on the counter, no matter what else is happening, I drop everything to fill it. This drives everyone a little crazy.
 
-Second problem is the kids. Way too lazy about refilling bottles. They'rs crafty about it too - they drain each one to a level that is arguably not-yet-empty, and thus not-yet-necessary to refill. By Sunday the fridge contains five separate bottles with a tiny gulp in each.
+Second problem is the kids. Way too lazy about refilling bottles. They're crafty too - leaving each one at a level that is arguably not-yet-empty, and thus not-yet-necessary to refill. By Sunday the fridge contains five separate bottles with tiny gulps in each.
 
-Third problem is the combination of the first two problems. There's also a Long Island bred (a.k.a loud-ish) wife wandering around, expressing that these, and other problems, should be resolved a.s.a.p.
+Third problem is the combination of the first two problems. 
 
-Let's turn to the upside then. The dispenser is 10 meters from the fridge. A 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km per year. So there's the benefit of some exercise in keeping these folks hydrated.
+There's also a Long Island bred (loud-ish) wife wandering around, expressing that these, and other problems, should be resolved ASAP.
 
-Aprapos of nothing, while my exercise is calculated in meters the water jugs are very imperial. Each one is 18.927 liters or 5 gallons. This is another mystery.
+Let's turn to the upside then. The dispenser is 10 meters from the fridge. A 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km per year. So there's a benefit of exercise in keeping these folks hydrated.
 
-Same thing goes for mountain bike tires, by the way, which are sold to Europeans in inches, not centimeters, even though nobody knows what an inch looks like over here. 
+Aprapos of nothing. The exercise was calculated in meters but the water jugs are imperial. Each one is 18.927 liters. Exactly 5 gallons. Nobody in Austria knows what a gallon looks like.
 
-More useless information for your heads. You're welcome.
+Same thing goes for mountain bike tires, by the way, which are sold to Europeans in inches, not centimeters. "What's an inch?" people ask. 
+
+More useless information for your head. You're welcome.
 
 ![You're going the wrong way](/images/metric-imperial.png)
