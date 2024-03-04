@@ -20,12 +20,16 @@ Our water company is [Aqua Alpina](https://www.aquaalpina.at/). Here's a very sk
 
 Anyhow - the water we get isn't chilled, so we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's really not.
 
-What's annoying, at least for me, is my inability to ignore bottles that aren't full. When I see a half-empty bottle on the counter I feel an immediate need to fill it. My compulsion makes everyone a little crazy. Mid-conversation with my wife, if I see a bottle, I have to fill it. Then there's the kids. They make me crazy. They drain each bottle without ever refilling them. By the weekend’s end, the fridge is always full of nearly empty bottles.
+First problem is my ADD. I am completely unable to ignore bottles that aren't full. If there's a half-empty bottle on the counter I drop everything to fill it. My compulsion makes everyone a little crazy.
 
-On the upside, this stuff provides some unexpected exercise. The dispenser is 10 meters from the fridge, making it a 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km annually. So there's some extra walking to keep the family hydrated.
+Second problem is the kids. Way too lazy about refilling bottles. They'rs crafty about it too - they drain each one to a level that is arguably not-yet-empty, and thus not-yet-necessary to refill. By Sunday the fridge contains five separate bottles with a tiny gulp in each.
 
-Yes. You've got me. I'm thinking metric rather than imperial these days. But the jugs make that one harder. Water jugs are definitely produced with the US in mind, since each jug is about 19.1 liters, and thus, exactly 5 gallons. Same goes for mountain bike tires, by the way, which are sold to Europeans in inches, for some crazy reason.
+Third problem is the combination of the first two problems. There's also a Long Island bred (a.k.a loud-ish) wife wandering around, expressing that these, and other problems, should be resolved a.s.a.p.
 
-More useless information for your heads. You're welcome.
+Let's turn to the upside then. The dispenser is 10 meters from the fridge. A 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km per year. So there's some extra exercise to keep these folks hydrated.
+
+Aprapos of nothing. Though my exercise is in meters the water jugs are solidly imperial. Each one is 18.927 liters. That's 5 gallons to you and me. 
+
+Same goes for mountain bike tires, which are sold to Europeans in inches, for some crazy reason. More useless information for your heads. You're welcome.
 
 ![You're going the wrong way](/images/metric-imperial.png)
