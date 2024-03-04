@@ -20,8 +20,14 @@ Our water company is [Aqua Alpina](https://www.aquaalpina.at/). Here's a very sk
 
 ![pic of a lady drinking water](/images/waterlady.png)
 
-Anyhow - the water we get isn't chilled, so we fill a few 1.5 liter bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's sorta not.
+Anyhow - the water we get isn't chilled, so we fill some bottles and refrigerate them. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think it's simple. It's sorta not.
 
-What's annoying, at least for me, is my inability to ignore bottles that aren't full. When I see a half-empty bottle on the counter I feel an immediate need to fill it. My compulsion makes everyone a little crazy. Mid-conversation with my wife, if I see a bottle, I have to fill it. Then there's my kids. They make me crazy. They drain each bottle without ever refilling them. By the weekend’s end, the fridge is always full of nearly empty bottles.
+What's annoying, at least for me, is my inability to ignore bottles that aren't full. When I see a half-empty bottle on the counter I feel an immediate need to fill it. My compulsion makes everyone a little crazy. Mid-conversation with my wife, if I see a bottle, I have to fill it. Then there's the kids. They make me crazy. They drain each bottle without ever refilling them. By the weekend’s end, the fridge is always full of nearly empty bottles.
 
-On the upside, this routine provides a little unexpected exercise. The dispenser is a 10-meter stroll from the fridge, making it a 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km annually. So I’m adding a bit of walking to my routine, all in the name of keeping the family hydrated.
+On the upside, this stuff provides some unexpected exercise. The dispenser is 10 meters from the fridge, making it a 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km annually. So there's some extra walking to keep the family hydrated.
+
+Yes. You've got me. I'm thinking metric rather than imperial these days. But the jugs make that one harder. Water jugs are definitely produced with the US in mind, since each jug is about 19.1 liters, and thus, exactly 5 gallons. Same goes for mountain bike tires, by the way, which are sold to Europeans in inches, for some crazy reason.
+
+More useless information for your heads. You're welcome.
+
+![You're going the wrong way](/images/metric-imperial.png)
