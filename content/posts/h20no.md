@@ -8,7 +8,7 @@ tags = ["expat life"]
 
 H₂Oh No
 
-Another year slipped by like a wet bar of soap. A lot of things happened. Too many to review.
+Another year slipped by like a [Northern Pike](https://www.donauauen.at/wissen/natur-wissenschaft/fauna/hecht-esox-lucius) swimming downstream. A lot of things happened. Too many to review.
 
 Today I'll write, [again](/posts/wasser-acqua-voda/), about water.
 
