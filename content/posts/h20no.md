@@ -12,13 +12,12 @@ Another year slipped by like a wet bar of soap. A lot of things happened. Too ma
 
 Today I'll write, [again](/posts/wasser-acqua-voda/), about water.
 
-Vienna's water supply is world famously clean. It comes straight from the Alps and doesn't need any treatment at all. No chlorine, no filtration. You can read more about it in [this info sheet](/images/drinking-water-vienna.pdf) I downloaded from the Stadt Wien website. (Yes, I read municipal water reports. Don't judge.)
+Vienna's water supply is world famously clean. It comes straight from the Alps and doesn't need any treatment at all. No chlorine, no filtration. You can read more about it in [this offical Vienna water flyer](/images/drinking-water-vienna.pdf). Yes, I read municipal water reports. Don't judge.
 
-But our house doesn’t get this water. Our water comes from a well. It’s okay for cooking or brushing teeth, but not for drinking. We get our drinking water from a dispenser. A truck brings us five jugs every month.
+Sadlyt, our residence isn’t linked to the local water system. Instead, we rely on a well. The reason remains a mystery - it’s just part of the “charm” of our rental. This well water is suitable for cooking and brushing teeth, but not for drinking. Hence, we get our water from a dispenser. A truck delivers five jugs per month.
 
-The water from the dispenser isn’t cold, so we always fill bottles and put them in the fridge. Fill a bottle, use it, fill it again. Sounds simple, right? But it’s not.
-Here’s why. If all four bottles aren’t full and in the fridge, I can’t relax. If I see a half-full bottle, I have to fill it right away. I might go to the fridge for cheese, but I come out with a water bottle to fill.
+These water jugs aren’t chilled, so we transfer the water into five glass bottles for refrigeration. The cycle is simple: fill a bottle, use it, empty it, refill it. Or you'd think that's simple. It's not.
 
-This also affects my relationships. My wife could be talking, and suddenly, I see a bottle. I stop listening. This wouldn’t happen so much if it weren’t for the kids. They leave bottles everywhere. They drink a bit from each one and never fill them back up. Sometimes, the fridge is full of almost empty bottles. Guess who fills them up?
+The challenge, at least for me, is an inability to ignore a bottle that isn’t full. Spotting a half-empty bottle triggers an immediate need to refill it. This peculiar compulsion has a way of intruding on my interactions. Mid-conversation with my wife, an empty bottle catches my eye, and I’m compelled to fill it. There's also a bit of a blame game. My children are always the culprits, sipping from each bottle without ever refilling them. By the weekend’s end, the fridge is always full of nearly empty bottles.
 
-People can view a glass as half full. In my case, it’s always half empty, waiting for a refill. But let’s spin it optimistically. I fill about two bottles per day. The dispenser is a 10-meter walk from the fridge, that’s a 20-meter journey. 40 meters daily. It adds up to 280 meters weekly and about 14 kilometers annually. So, when I back up and think about it, I’m adding a lot of walking to my routine, all in the pursuit of a well-hydrated family.
+On the upside, this routine provides a little unexpected exercise. The dispenser is a 10-meter stroll from the fridge, making it a 20-meter round trip. That’s 40 meters daily, 280 meters weekly, and about 14 km annually. So I’m adding a bit of walking to my routine, all in the name of keeping the family hydrated.
