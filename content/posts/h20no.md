@@ -1,6 +1,6 @@
 +++
 title = "H₂Oh No"
-date = "2024-02-18"
+date = "2024-03-02"
 tags = ["expat life"]
 +++
 
