@@ -25,6 +25,32 @@
         {{ i18n "poweredBy" | safeHTML }}
       </div>
     {{ end }}
+
+    <section class="h-card" style="display: none;">
+        <!-- Name -->
+        <span class="p-name">Matt Reider</span>
+        
+        <!-- Profile Picture -->
+        <img class="u-photo" src="/images/me.jpg" alt="Matt Reider">
+        
+        <!-- Bio or Description -->
+        <span class="p-note">American expat in Vienna working on k8s, oTel, and open observability.</span>
+        
+        <!-- URL -->
+        <a class="u-url" href="https://mrgrumpypants.live">https://mrgrumpypants.live</a>
+        
+        <!-- Email (Optional) -->
+        <a class="u-email" href="mailto:mreider@gmail.com">mreider@gmail.com</a>
+        
+        <!-- Social Links (Optional, add more as needed) -->
+        <a class="u-url" rel="me" href="https://fosstodon.org/@mdr">Mastodon</a>
+        <a class="u-url" rel="me" href="https://bsky.app/profile/mreider.com">BlueSky</a>
+        <a class="u-url" rel="me" href="https://github.com/mreider">GitHub</a>
+        <a class="u-url" rel="me" href="https://www.linkedin.com/in/mreider">LinkedIn</a>
+        
+        <!-- Location (Optional) -->
+        <span class="p-locality">Vienn, Austria</span>
+    </section>
 </footer>
 
 {{ range .Site.Params.customJS }}
