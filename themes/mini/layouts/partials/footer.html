@@ -11,11 +11,15 @@
        {{ now.Format "2006"}} 
        <span class="split">
         {{ partial "svgs/heart.svg" (dict "fill" "#bbbbbb" "width" 15 "height" 15 ) }}
-       </span>
+         </span>
        {{ .Site.Params.Author }}
     {{ end }}
     </div>
-
+    <div class="copyright">
+        <a href="https://xn--sr8hvo.ws/previous">←</a>
+        An <a href="https://xn--sr8hvo.ws">IndieWeb Webring</a> 🕸💍
+        <a href="https://xn--sr8hvo.ws/next">→</a>
+    </div>
     {{ if ne .Site.Params.showPowerBy false }}
       <div class="powerby">
         {{ i18n "poweredBy" | safeHTML }}
