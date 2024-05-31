@@ -12,7 +12,7 @@ He asked me if there was a Lost and Found for the Wiener Lienen, Vienna's world-
 
 ![funamt.gv.at](/images/matt/travel-blog/fundservice.png)
 
-We waited a couple of days before I searched the site to give Wiener Linien staff time to find the bag and send it to the lost and found. A few days later, when I got around to searching, I saw something that looked like a hit and shared it with Max. Here it is, translated into English.
+We waited a couple of days to give Wiener Linien staff time to find the bag. A few days later, when I started searching, I saw something that looked like a hit and shared it with Max. Here it is, translated into English.
 
 ![lost and found listing](/images/matt/travel-blog/listing.png)
 
