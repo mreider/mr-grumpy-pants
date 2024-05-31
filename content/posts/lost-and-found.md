@@ -16,7 +16,7 @@ We waited a couple of days to give Wiener Linien staff time to find the bag. A f
 
 ![lost and found listing](/images/matt/travel-blog/listing.png)
 
-Max agreed that it looked promising, so I went to the Zentrales Fundservice, a few stops away from my office. The office was small and a little crowded. I got in line and waited for my turn. Unfortunately, the desk clerk gave me bad news. The item had already been collected. But, he said, there was no way this was Max's bag - there was a lost Passport inside, which they did not include in the description.
+Max agreed that it looked promising, so I went to the Zentrales Fundservice, a few stops away from my office. I got in line and waited for my turn. Unfortunately, the desk clerk gave me bad news. The item had already been collected. But, he said, there was no way this was Max's bag - there was a lost Passport inside, which they did not include in the description.
 
 "Okay," I said. "I'll search the website again to see if anything else looks promising." 
 
