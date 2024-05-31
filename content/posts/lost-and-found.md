@@ -56,8 +56,10 @@ The Government requires a Meldezettel for lots of different reasons.
 - Registering a Vehicle
 - Obtaining Social Services
 - Employment
-- Registering your dog (shout out to Leo)
+- Registering a Pet (shout out to Leo)
 
-It's easy for the government to find you here in Austria and impossible to fly under the radar. You can't send your mail to a PO Box or file taxes under Uncle Joe's address. The government knows where you are, which was pretty good in Max's case. Back in the US, this might sound like the equivalent of killing a bald eagle with a hammer. "The Government is Evil," we say in America. This sort of thing would not be allowed. Here in Europe, aside from the ultra-right fascists and the ultra-left anarchists, which are a tiny but admittedly growing minority, people don't say things like "government is evil." It's just not a thing. 
+It's easy for the government to find you here in Austria and impossible to fly under the radar. You can't send your mail to a PO Box or file taxes under Uncle Joe's address. The government knows where you are, which was pretty good in Max's case. Back in the US, this might sound like the equivalent of killing a bald eagle with a hammer. "Government is evil," we say in America. 
+
+Here in Europe, aside from the ultra-right fascists and the ultra-left anarchists, which are a tiny but admittedly growing minority, people don't say things like "government is evil." It's just not a thing. 
 
 While I'm happy to have Max's bag and super impressed with how they returned it to us, I didn't expect to feel a slight sense of comparative sadness about my country, what it could be, and where it seems to be going.
