@@ -10,8 +10,6 @@
 	{{ end }}
 
 	{{ if .Site.Params.enableRSS }}
-	  <a href="{{ .Site.RSSLink }}">RSS</a>
+	  <a class="button" href="{{ .Site.RSSLink }}">RSS</a>
 	{{ end }}
-	
-	<a class="button" href="https://buttondown.email/mreider" target="popupwindow" onclick="window.open('https://buttondown.email/mreider', 'popupwindow')">Subscribe</a>
 </nav>
